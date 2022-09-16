@@ -24,6 +24,13 @@ NORMALIZAÇÃO E SGBD
 -Imagens e arquivos do aplicativo BrModelo, referentes a normalização dos modelos iniciais apresentados pela empresa.
 -Arquivos de txt com extensão .SQL com linhas de comando de pesquisas em Bancos de Dados Oracle SQL e MySQL
 
+ARQUIVOS INSERIDOS SEMANA 2
+  comandos_MySQL.sql
+  Comandos_Oracle.sql
+  modelo-lógico-desnormalizado.brM3
+  modelo-lógico-normalizado SEMANA 2.brM3
+  PRINT modelo-lógico-normalizado SEMANA2 Leandro Molinari.png
+
 PASTA SEMANA 3
 CONSULTAS EM ORACLE E MANIPULAÇÃO DE DADOS
 - Arquivos txt com extenção .SQL com linhas de comando das consultas e desafios propostos.
