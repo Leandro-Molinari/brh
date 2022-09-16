@@ -9,6 +9,16 @@ PASTA SEMANA 1
 MODELAGE DE DADOS
 -Imagens e arquivos do aplicativo BrModelo, referentes aos modelos conceituais e lógicos baseados na politica de administração da empresa.
 
+ARQUIVOS INSERIDOS SEMANA 1
+  Comex_conceitual.png
+  Comex_logico.png
+  Comex3.brM3
+  Listar colaboradores que participam de todos os projetos.png
+  Listar colaboradores sem dependentes.png
+  Listar departamentos.png
+  Listar participantes de projeto.png
+
+
 PASTA SEMANA 2
 NORMALIZAÇÃO E SGBD
 -Imagens e arquivos do aplicativo BrModelo, referentes a normalização dos modelos iniciais apresentados pela empresa.
