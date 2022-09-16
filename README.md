@@ -35,6 +35,10 @@ PASTA SEMANA 3
 CONSULTAS EM ORACLE E MANIPULAÇÃO DE DADOS
 - Arquivos txt com extenção .SQL com linhas de comando das consultas e desafios propostos.
 
+ARQUIVOS INSERIDOS SEMANA 3
+  consultas.sql
+  Desafios.sql
+
 PASTA SEMANA 4
 PL-SQL - PROCEDURES, FUNÇÕES E EXCEÇÕES / PL-SQL - PACKAGES
 - Arquivos txt com extenção .SQL com linhas de comando das consultas, FUNCIONS, VIEWS e PROCEDURES em PL-SQL, bem como a PACKAGE com as mesmas Functions e Procedures.
